@@ -1,1 +1,27 @@
-Translate me into another language please
+Mi primera aplicación android! Escrita en Java con android studio. Este es un organizador/software de programación para clínicas sin cita previa.
+
+Esta aplicación fue co-desarrollada en mi clase de ingeniería de software con otros 4 estudiantes. Mi principal
+responsabilidad fue implementar la funcionalidad del back end y el componente de la base de datos.
+Ejecutando la Aplicación
+
+La única manera de ejecutar esta aplicación es descargar y ejecutar el archivo RUN_ME.apk
+
+Una vez que ejecutes la aplicación, ¡necesitarás crear una cuenta para iniciar sesión! Elige una cuenta de empleado o
+paciente y comienza a explorar la aplicación. Recuerda que esto no está realmente construido para funcionar en la
+realidad. Fue construido para un proyecto escolar...
+
+No podrás ejecutar la aplicación desde el código fuente ya que he eliminado mis credenciales de firebase.
+
+*Errores Conocidos*
+ MUCHOS, por favor no seas demasiado duro conmigo :0
+
+*Información de la Base de Datos*
+¡Este proyecto utiliza Google Firebase!
+
+¿Por Qué Tu Código Es Tan Malo??
+
+Sobre eso... Así que todo lo que hice en este proyecto lo aprendí mientras lo creaba. Nunca antes había programado una
+aplicación android y bueno, digamos que podrás notarlo. El proyecto no fue planeado ni diseñado muy bien antes de que
+comenzara el desarrollo y, por lo tanto, hay mucha redundancia y código simplemente horrible. Por no mencionar que este
+proyecto tenía un plazo estricto y muchas reglas y regulaciones. De todos modos, ¡creo que está bastante bien para ser
+la primera vez en el desarrollo de android!
